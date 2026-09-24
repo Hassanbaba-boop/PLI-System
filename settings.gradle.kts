@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PLI-System"
+rootProject.name = "PLISystem"
 include(":app")
